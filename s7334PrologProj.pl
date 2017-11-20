@@ -26,7 +26,7 @@ report :-
   write(Y), nl.
 
 /*
-  Jesteœ w punkcie "X", zostajesz przeniesiony w kierunku "Direction" do
+  Jesteś w punkcie "X", zostajesz przeniesiony w kierunku "Direction" do
   punktu "Y"
 */
 /*
